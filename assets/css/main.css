@@ -38,9 +38,14 @@ ol, ul {
 }
 
 .Resume-p-right {
-    font-size: 15px; 
+    font-size: 17px; 
     margin: 0px auto;
     float: right;
+}
+
+.thumbnail {
+	width : 130px;
+	height : 220px
 }
 
 /* .Resume-p {
