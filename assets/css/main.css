@@ -46,9 +46,9 @@ ol, ul {
 /* .Resume-p {
     /* font-size: 20px; */
     /* width: 100%; */
-    text-align: left;
+    /* text-align: left;
     margin: 0px auto 2px;
-} */
+} */ 
 
 blockquote, q {
 	quotes: none;
@@ -123,7 +123,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: #49bf9d;
 		text-decoration: none;
 	}
@@ -2606,7 +2606,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -3091,7 +3091,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+				background-image: url("images/overlay.png"), url("../../images/bg.jpeg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
