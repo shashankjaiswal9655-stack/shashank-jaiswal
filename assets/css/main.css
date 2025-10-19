@@ -43,6 +43,11 @@ ol, ul {
     float: right;
 }
 
+.thumbnail {
+	width:180px;
+	height:210px;
+}
+
 /* .Resume-p {
     /* font-size: 20px; */
     /* width: 100%; */
